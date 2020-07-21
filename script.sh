@@ -1,9 +1,8 @@
 #!/bin/bash
 
 
-#Author: Serge
-#date July 2020
-
+#Author: Eugene
+Date: July 2020
 
 lscpu
 nproc
